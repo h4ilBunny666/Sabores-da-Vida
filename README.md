@@ -51,3 +51,37 @@ O nosso website se dedica ao compartilhamento de receitas fáceis, destinadas a 
  <li>Caso você não tenha uma máquina de fazer waffle, a massa pode ser preparada em uma sanduicheira comum.
  <li>Ela fica perfeita servida com frutas, mel, Nutella ou até mesmo com manteiga.
  <li>As waffles ficam mais crocantes nos primeiros minutos, por isso sempre é melhor servir em seguida!
+
+ <!DOCTYPE html>
+<html>
+<head>
+    
+</head>
+<body>
+    <h1>Bolinho de arroz</h1>
+ <img src="../images/receita1.jpg" alt="Imagem da Receita 1">
+    <h2>Ingredientes:</h2>
+    <ul>
+        <li>2 xícaras de arro cozido </li>
+        <li>1 ovo</li>
+        <li>1/2 xícara de queijo ralado</li>
+        <li>2 colheres de sopa de farinha de trigo</li>
+         <li>2 colheres de sopa de salsinha picada</li>
+         <li>Sal e pimenta a gosto</li>
+         <li>Óleo para fritar</li>
+       <!-- Adicione mais instruções conforme necessário -->
+    </ul>
+    <h2>Modo de preparo:</h2>
+    <ol>
+        <li>Passo 1: Em uma tigela grande, misture o arroz cozido com o ovo, o queijo ralado, a farinha de trigo e a salsinha (se estiver usando). Certifique-se de que o arroz esteja completamente frio antes de fazer isso.</li>
+        <li>Passo 2: Tempere a mistura com sal e pimenta a gosto. Lembre-se de que o queijo já é salgado, então não exagere no sal.</li>
+        <li>Passo 3: Aqueça uma frigideira com óleo em fogo médio.</li>
+        <li>Passo 4: Com as mãos umedecidas, forme pequenos bolinhos com a mistura de arroz. Você pode fazer bolinhos do tamanho de uma bola de golfe.</li>
+        <li>Passo 5: Quando o óleo estiver quente, frite os bolinhos em lotes até que fiquem dourados e crocantes, o que deve levar cerca de 2-3 minutos de cada lado.</li>
+        <li>Passo 6: Retire os bolinhos da frigideira e coloque-os em um prato forrado com papel toalha para escorrer o excesso de óleo.</li>
+        <li>Passo 7: Sirva os bolinhos de arroz quentes, acompanhados de molho de pimenta, maionese, ketchup ou qualquer outro molho de sua preferência.</li>
+        <!-- Adicione mais instruções conforme necessário -->
+    </ol>
+</body>
+</html>
+
