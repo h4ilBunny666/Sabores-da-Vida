@@ -85,3 +85,37 @@ O nosso website se dedica ao compartilhamento de receitas fáceis, destinadas a 
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<head>
+    
+</head>
+<body>
+    <h1>Croissant de presunto e queijo</h1>
+    <img src="../images/receita1.jpg" alt="Imagem da Receita 1">
+    <h2>Ingredientes:</h2>
+    <ul>
+        <li>1 pacote de massa folhada (pode ser comprada pronta no supermercado)li>
+        <li>4 fatias de presunto</li>
+        <li>4 fatias de queijo</li>
+        <li>4 fatias de queijo</li>
+        <!-- Adicione mais ingredientes conforme necessário -->
+    </ul>
+    <h2>Modo de preparo:</h2>
+    <ol>
+        <li>Passo 1: Pré-aqueça o forno a 200°C.</li>
+        <li>Passo 2: Abra o pacote de massa folhada e desenrole-a em uma superfície limpa e levemente enfarinhada.</li>
+        <li>Passo 3: Corte a massa folhada em quatro triângulos, como se estivesse cortando uma pizza. Isso criará a base para seus croissants.
+
+</li>
+        <li>Passo 4: Coloque uma fatia de presunto e uma fatia de queijo no centro de cada triângulo de massa.</li>
+        <li>Passo 5: Coloque uma fatia de presunto e uma fatia de queijo no centro de cada triângulo de massa.</li>
+        <li>Passo 6: Coloque os croissants em uma assadeira forrada com papel manteiga.</li>
+        <li>Passo 7: Em uma tigela pequena, bata o ovo. Pincele os croissants com o ovo batido para dar um acabamento dourado.</li>
+        <li>Passo 8: Se desejar, polvilhe sementes de gergelim sobre os croissants para dar um toque crocante</li>
+        <li>Passo 9: Asse no forno pré-aquecido por cerca de 15-20 minutos, ou até que os croissants fiquem dourados e crocantes.</li>
+        <li>Passo 10: Retire do forno e deixe esfriar um pouco antes de servir.</li>
+        <!-- Adicione mais instruções conforme necessário -->
+    </ol>
+</body>
+</html>
